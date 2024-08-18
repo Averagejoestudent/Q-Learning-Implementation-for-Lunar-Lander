@@ -25,7 +25,7 @@ pip install numpy matplotlib gym
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/lunar-lander-qlearning.git
+   git clone https://github.com/Averagejoestudent/Q-Learning-Implementation-for-Lunar-Lander.git
    cd lunar-lander-qlearning
 
 2. **Run the Jupyter Notebook:**
